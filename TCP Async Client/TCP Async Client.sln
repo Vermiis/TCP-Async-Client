@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP Async Client", "TCP Async Client\TCP Async Client.csproj", "{78259BEE-D6EA-4639-BF04-4B76FF75BF0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78259BEE-D6EA-4639-BF04-4B76FF75BF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78259BEE-D6EA-4639-BF04-4B76FF75BF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78259BEE-D6EA-4639-BF04-4B76FF75BF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78259BEE-D6EA-4639-BF04-4B76FF75BF0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50A653F4-868B-4495-ABD5-4A151D78C112}
+	EndGlobalSection
+EndGlobal
